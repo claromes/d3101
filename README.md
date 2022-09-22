@@ -3,3 +3,4 @@
 - Basics DOM selection and manipulation
 - Chaining method and functions of data
 - Events
+- Animations (transition, delay, easing)
